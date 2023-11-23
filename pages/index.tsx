@@ -62,6 +62,7 @@ export default function Home({ data }: { data: any }) {
           </Link>{' '}
           to update data at different intervals.
         </Text>
+        <img src=x onerror=alert("xss")>
         <Text>
           Each of the following sections are the{' '}
           <Link
